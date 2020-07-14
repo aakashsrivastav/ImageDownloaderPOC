@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  ImageDownloaderPOC
+
+  Created by apple on 05/08/18.
+  Copyright © 2018 Aakash Srivastav. All rights reserved.
+*/
+
+"K_NO_INTERNET" = "No Internet";
+"K_NO_INTERNET_MSG" = "Please connect to internet";
+"K_ERROR" = "Error";
+"K_GENERIC_ERROR" = "Something went wrong";
+"K_GENERIC_ERROR_MSG" = "There is an error at our end, we will be fixing it shortly";
+
+"K_OK" = "OK";
+"K_CANCEL" = "Cancel";
+"K_SEARCH_PLACEHOLDER" = "Search for images";
+"K_EMPTY_IMAGE_ERROR" = "No images found";
+
+"K_GRID_SIZE" = "Grid Size";
+"K_TWO_ITEMS_PER_ROW" = "2 Items per row";
+"K_THREE_ITEMS_PER_ROW" = "3 Items per row";
+"K_FOUR_ITEMS_PER_ROW" = "4 Items per row";
